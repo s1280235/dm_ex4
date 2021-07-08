@@ -11,4 +11,5 @@ int main(){
     total+=die[i];
   }
   printf("Total value:%2d\n",total);
+  return 0;
 }
